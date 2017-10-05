@@ -1,9 +1,9 @@
 # Avazu - Click-Through Rate Prediction
 
 ### Files:
-Part 1 - **Data Exploration**. Visualizing the data to look into aspects that will help us to decide what features to pick.
-Part 2 - **Feature Engineering**. Feature Ranking of Hidden Column. Subsetting the columns and apply one-hot encoding. PCA to reduce dimension.
-Part 3 - **Predictive Modeling**. Using Multi-layer Perceptron based classifier. Analyzing Performance Metrics.
+- **Part-1 Data Exploration**. Visualizing the data to look into aspects that will help us to decide what features to pick.
+- **Part-2 Feature Engineering**. Feature Ranking of Hidden Column. Subsetting the columns and apply one-hot encoding. PCA to reduce dimension.
+ - **Part-3 Predictive Modeling**. Using Multi-layer Perceptron based classifier. Analyzing Performance Metrics.
 
 Discarded - Predictive Modeling: Attempted XGBoost modeling, however parameter tuning could be very time consuming.
 
